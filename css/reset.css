@@ -1,0 +1,5 @@
+@charset "utf-8";
+*{margin: 0;padding: 0;}
+li{list-style: none;}
+a{color: inherit;text-decoration: none;}
+button{cursor: pointer; border: none;}/* 폰트색은 가서 하기 추가하고싶은거 추가하기 */
